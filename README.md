@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @nordin1997
 - 👀 I’m interested in Web Development
-- 🌱 I’m currently learning ReactJS 
+- 🌱 HTML | CSS | JAVASCRIPT | REACTJS | EXPRESS | GIT | MOCHA/CHAI | REST API | GRAPHQL 
 - 💞️ I’m looking to collaborate on any ReactJS Project.
 - 📫 You can reach me at vipnordin@gmail.com
 
